@@ -1,0 +1,45 @@
+{
+    "generated": "2023/01/13 04:34:58",
+    "version": "3.02",
+    "data": {
+        "title": "The boys' book of Indian battles and adventures",
+        "contributor": [
+            {
+                "name": "John Blake",
+                "role": "author"
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            }
+        ],
+        "scans_archive_url": [
+            "https://archive.org/details/boysbookofindian00blakiala/page/26/mode/2up"
+        ],
+        "credit": "Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)",
+        "language": "English",
+        "publisher": "",
+        "publisher_country": "US",
+        "source_publication_years": [
+            "pubdate:1866"
+        ],
+        "release_date": "",
+        "copyrighted_work": false,
+        "ww": "rfrank@rfrank.net",
+        "request_key": "20211023235731blake",
+        "ebook_number": "69769",
+        "subtitle": "with anecdotes about them"
+    }
+}
